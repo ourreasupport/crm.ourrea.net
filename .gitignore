@@ -1,0 +1,4 @@
+temp/
+application/vendor
+application/logs
+application/cache
